@@ -1,0 +1,2 @@
+"Subject","Activity","MeanSamples","SDSamples"
+25,"WALKING",NA,NA
